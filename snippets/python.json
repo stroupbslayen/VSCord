@@ -12,7 +12,8 @@
         "body": [
             "import discord",
             "TOKEN = '$1'",
-            "client = discord.Client()",
+            "PREFIX = '$1'",
+            "client = discord.Client(commands_prefix=PREFIX)",
             "",
             "",
             "@client.event",
