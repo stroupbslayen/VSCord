@@ -2,7 +2,7 @@
 	"name": "vscord",
 	"displayName": "VSCord",
 	"description": "Discord bot development helper",
-	"version": "0.5.2",
+	"version": "0.5.3",
 	"publisher": "StroupBSlayen",
 	"engines": {
 		"vscode": "^1.36.0"
