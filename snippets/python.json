@@ -44,9 +44,9 @@
             "    print(f'With ID: {bot.user.id}')",
             "",
             "",
-            "@bot.command($3)",
-            "async def ${4:ping}(ctx):",
-            "    ${5:await ctx.send('pong')}",
+            "@bot.command($4)",
+            "async def ${5:ping}(ctx):",
+            "    ${6:await ctx.send('pong')}",
             "",
             "",
             "bot.run(TOKEN)"
